@@ -1,0 +1,46 @@
+p
+{
+    color: green;
+}
+s
+{
+    color: red;
+}
+.card
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+@media only screen and (min-width:480px) and (max-width:768px){
+}
+p
+{
+    color: green;
+}
+s
+{
+    color: red;
+}
+.card
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+@media only screen and (min-width:481px) and (max-width:768px){
+}
+p
+{
+    color: green;
+}
+s
+{
+    color: red;
+}
+.card
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
